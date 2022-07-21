@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Algorytm7": {
+      "commandName": "Project",
+      "commandLineArgs": "[8, -1, 3, 4]"
+    }
+  }
+}
